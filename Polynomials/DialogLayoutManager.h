@@ -1,6 +1,6 @@
 /*
  * Polynomials Calculator and Graph Drawing
- * Created By: Haim Adrian
+ * Created By: Haim Adrian and Yakir Saadia
  * Final Project for OOP course at Holon Institute of Technology
  * 2019-2020
  */
